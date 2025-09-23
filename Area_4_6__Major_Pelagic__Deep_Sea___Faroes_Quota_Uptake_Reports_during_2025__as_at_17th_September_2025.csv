@@ -1,4 +1,4 @@
-﻿STOCK CODE,STOCK,PO,Final Quota Allocation,Quota change in week,Quota change in year,Current Quota allocation,Total landings by UK vessels,Landings % of Quota,Amount Left
+﻿STOCK_CODE,STOCK,PO,Final_Quota_Allocation,Quota_change_in_week,Quota_change_in_year,Current_Quota_allocation,Total_landings_by_UK_vessels,Landings_%_of_Quota,Amount_Left
 ALF/3X14-,Alfonsinos,UK TOTAL,5,0,0,5,0,0.00%,5
 ANF/*2AC4C,Flex (report landings from NS to WS),10m and under England,0.5264,0,0,0.5,0,0.00%,0.5
 ANF/*2AC4C,Flex (report landings from NS to WS),10m and under Leased,0,0,0,0,0,0.00%,0
@@ -3314,3 +3314,4 @@ WIT/*2AC4-C,North Sea Witch,Wales & WC,0,0,0,0,0,0.00%,0
 WIT/*2AC4-C,North Sea Witch,West Scotland,7.205857143,0,-2.8,4.4,0.5,11.10%,3.9
 WIT/*2AC4-C,North Sea Witch,Western PO,7.635706122,0,0,7.6,0.4,5.60%,7.2
 WIT/*2AC4-C,North Sea Witch,UK TOTAL,743.808302,0,0,743.8,341.4,45.90%,402.4
+
